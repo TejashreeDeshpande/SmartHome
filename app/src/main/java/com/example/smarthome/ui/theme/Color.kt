@@ -2,26 +2,30 @@ package com.example.smarthome.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
+val BackgroundDark = Color(0xFF1F1F1F)
 
-val BackgroundDark = Color(0xFF14110F)
-val BackgroundSecondary = Color(0xFF1E1916)
+val BackgroundSecondary = Color(0xFF2A2A2A)
 
-val CardColor = Color(0xFF2A231F)
-val CardBorder = Color(0xFF3A312C)
+val CardColor = Color(0xFF3D3D3D)
 
-val Espresso = Color(0xFF8A6A46)
+val CardBorder = Color(0xFF555555)
 
-val Copper = Color(0xFFB08D57)
+val Espresso = Color(0xFF8B6B4A)
 
-val GoldAccent = Color(0xFFD2A85A)
+val Copper = Color(0xFFC28A52)
 
-val WarmCream = Color(0xFFF3E9DC)
+val GoldAccent = Color(0xFFE0B15C)
 
-val MutedText = Color(0xFFB6A79A)
+val WarmCream = Color(0xFFF5F1EA)
 
-val SuccessGreen = Color(0xFF7FA68A)
+val MutedText = Color(0xFFC6BEB4)
 
-val WarningAmber = Color(0xFFD2A85A)
+val SuccessGreen = Color(0xFF72B38B)
+
+val WarningAmber = Color(0xFFE0B15C)
+
+
+// Device Accent Colors
 
 val LightAccent = GoldAccent
 
