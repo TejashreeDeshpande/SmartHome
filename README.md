@@ -9,6 +9,10 @@ A modern Android POC for smart home management, built to explore the latest Jetp
 - **Deep Search & Filter**: Instant device discovery by name, room, or category.
 - **Sleek Dark Theme**: A premium Material 3 UI designed for low-light environments.
 
+## Demo
+
+Watch the features (Filter, Search, Scrolling) in action: [View Demo Video](./SmartHome.mov)
+
 ## Compose & Kotlin Exploration
 
 This project serves as a playground for modern Android development:

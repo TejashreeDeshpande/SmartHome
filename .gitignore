@@ -17,5 +17,6 @@ local.properties
 
 # Demo and recording artifacts
 *.mp4
+*.mov
 *.png
 captures/
